@@ -6,7 +6,7 @@ from time import sleep
 from telethon.tl import types
 from telethon.errors import FloodWaitError
 from telethon.errors import FloodWaitError, ChatAdminRequiredError
-api_id = '271'  
+api_id = '27149965'  
 api_hash = '83483edc870d30e61bb21ea059a995b9'  
 
 
